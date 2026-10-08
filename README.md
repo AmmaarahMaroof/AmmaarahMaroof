@@ -16,11 +16,11 @@ An end-to-end platform I built from scratch, deployed automatically on every mer
 
 ### 🛠️ Tech I work with
 
-**Cloud & IaC:** AWS, Terraform, Azure
-**Containers:** Docker, Kubernetes, Helm
-**CI/CD & security:** GitHub Actions, Trivy, OIDC, least-privilege IAM
-**Languages:** Python, Bash, PowerShell, JavaScript, TypeScript
-**Testing:** Playwright, Selenium, Cucumber, pytest
+- **Cloud & IaC:** AWS, Terraform, Azure
+- **Containers:** Docker, Kubernetes, Helm
+- **CI/CD & security:** GitHub Actions, Trivy, OIDC, least-privilege IAM
+- **Languages:** Python, Bash, PowerShell, JavaScript, TypeScript
+- **Testing:** Playwright, Selenium, Cucumber, pytest
 
 ### 📫 Get in touch
 [linkedIn] - (https://www.linkedin.com/in/ammaarah-maroof/)
